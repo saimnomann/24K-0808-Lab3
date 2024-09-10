@@ -1,0 +1,1 @@
+ Q1 In this code we should have used a long int as a datatype of testInteger instead of int that's why it is showing different value.
